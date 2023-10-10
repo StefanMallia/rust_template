@@ -1,0 +1,12 @@
+**.odt
+**.gdb_history
+**appconfig*.toml
+!**appconfig.template.toml
+**.log
+**target/
+**docs/
+**.idea
+**.ods
+**.drawio
+**.vscode
+**project_*

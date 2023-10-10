@@ -1,0 +1,8 @@
+[package]
+name = "rust_template"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+config_loader = {version = "0.3.0", git="https://github.com/StefanMallia/config_loader", branch="main"}
+rust_log = {version = "0.3.3", git="https://github.com/StefanMallia/rust_log", branch="main"}
